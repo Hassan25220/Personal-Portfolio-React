@@ -98,7 +98,7 @@ const Projects = () => {
           <ProjectCard
             title="Personal Portfolio"
             main="Created a personal portfolio using React and TailwindCSS, that showcases my journey as a developer, highlighting projects that illustrate my skills in HTML, CSS, JavaScript, Django, and Python. It features an intuitive layout with engaging visuals, project details, and links to live demos and GitHub repositories. This portfolio reflects my passion for coding and continuous learning in the tech field."
-            githubLink="#"
+            githubLink="https://github.com/Hassan25220/Personal-Portfolio-React"
             visitLink="#"
             imageSrc={imgPortfolio}
           />
