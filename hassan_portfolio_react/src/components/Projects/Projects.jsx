@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import imgPortfolio from "../../assets/portfolio_img.png"
 import imgAirline from "../../assets/airline_system.png"
 import imgFlight from "../../assets/flight_system.svg"
-import imgHackFree from "../../assets/hackfree.png"
+import imgHackFree from "../../assets/hackFree.png"
 import imgSoftUi from "../../assets/soft_ui.png"
 import imgfinalYear from "../../assets/final_year.png"
 import imgReactCrud from "../../assets/react_crud.png"
